@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 ## Heyy I'm Nick!
-=======
 
 ## 👋 &nbsp;Hey there! I'm Nick
 
@@ -36,5 +35,3 @@
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
-
->>>>>>> 10b0ca1c435a6ece9d9e6adf336e9191d4ee6912
