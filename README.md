@@ -7,7 +7,9 @@
 🏀 &nbsp;In my free time, I like to hit the court and throw some threes.\
 🏋🏼 &nbsp;I'm also getting into weith lifting at the moment and I'm really enjoing it.\
 
-<img alt="Night Coding" src="https://github.com/Nickeyy/Nickeyy/blob/master/assets/basketballGif.gif" align="center"/>
+<img alt="Basketball" src="https://github.com/Nickeyy/Nickeyy/blob/master/assets/basketballGif.gif" align="center"/>
+
+<img alt="Night Coding" src="https://github.com/Nickeyy/Nickeyy/blob/master/assets/codingGif.gif" align="right" width="300" height="250"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -23,7 +25,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
 
-<img alt="Night Coding" src="https://github.com/Nickeyy/Nickeyy/blob/master/assets/codingGif.gif" align="right"/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
