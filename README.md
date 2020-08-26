@@ -1,6 +1,4 @@
 
-## Heyy I'm Nick!
-
 ## 👋 &nbsp;Hey there! I'm Nick
 
 ### 👨🏻‍💻 &nbsp;About Me
