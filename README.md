@@ -23,6 +23,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
 
+<img alt="Night Coding" src="https://github.com/Nickeyy/Nickeyy/blob/master/assets/codingGif.gif" align="right"/>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
