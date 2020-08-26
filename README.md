@@ -7,7 +7,7 @@
 🏀 &nbsp;In my free time, I like to hit the court and throw some threes.\
 🏋🏼 &nbsp;I'm also getting into weith lifting at the moment and I'm really enjoing it.\
 
-<!--img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/-->
+<img alt="Night Coding" src="https://github.com/Nickeyy/Nickeyy/blob/master/assets/basketballGif.gif" align="center"/>
 
 ### 🛠 &nbsp;Tech Stack
 
