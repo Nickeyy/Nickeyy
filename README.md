@@ -21,7 +21,9 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)&nbsp;
+![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
