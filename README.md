@@ -9,7 +9,6 @@
 
 <img alt="Basketball" src="https://github.com/Nickeyy/Nickeyy/blob/master/assets/basketballGif.gif" align="center"/>
 
-<img alt="Night Coding" src="https://github.com/Nickeyy/Nickeyy/blob/master/assets/codingGif.gif" align="right" width="300" height="250"/>
 
 ### 🛠 &nbsp;Tech Stack
 
